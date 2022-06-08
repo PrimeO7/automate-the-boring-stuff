@@ -13,10 +13,9 @@ while True:
         print('Howdy')
     else:
         print('Greetings')
-        print('Press Q to exit')
-        playerMove = input()
-    if playerMove == 'Q' or 'q':
-        sys.exit()   
-    continue
-
-    # How to loop if PlayeMove != to 'Q' or 'q' ?
+    print('Press Q to exit')
+    playerMove = input()
+    if playerMove == 'Q' or playerMove == 'q':  # Previous Issue was playerMove == 'Q' or 'q' | since the string 'q' is not empty it is true and would always trigger the exit with every input.
+        print('fuvk')
+        sys.exit()
+        
