@@ -5,3 +5,6 @@ road to silicon valley
 
 
 Progress Report:
+
+☑ Chapter 1
+☑ Chapter 2
