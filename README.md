@@ -4,9 +4,12 @@ road to silicon valley
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 
-Progress Report:
+# Progress Report:
 
-☑ Chapter 1
-☑ Chapter 2
-☑ Chapter 3
-☑ Chapter 4
+- [x] Chapter 1
+- [x] Chapter 2
+- [x] Chapter 3
+- [x] Chapter 4
+  - [ ] Practice
+- [x] Chapter 5
+  - [ ] Practice 
