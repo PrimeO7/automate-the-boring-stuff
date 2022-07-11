@@ -10,6 +10,6 @@ road to silicon valley
 - [x] Chapter 2
 - [x] Chapter 3
 - [x] Chapter 4
-  - [ ] Practice
+  - [x] Practice
 - [x] Chapter 5
   - [ ] Practice 
