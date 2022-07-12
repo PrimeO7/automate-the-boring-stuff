@@ -12,4 +12,4 @@ road to silicon valley
 - [x] Chapter 4
   - [x] Practice
 - [x] Chapter 5
-  - [ ] Practice 
+  - [x] Practice 
