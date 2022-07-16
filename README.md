@@ -13,3 +13,5 @@ road to silicon valley
   - [x] Practice
 - [x] Chapter 5
   - [x] Practice 
+- [x] Chapter 6
+  - [x] Practice 
